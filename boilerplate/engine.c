@@ -489,11 +489,7 @@ pthread_mutex_unlock(&container_list_mutex);
 
 kill(pid, SIGTERM);
 
-    c->stop_requested = 1;
-    pid_t pid = c->host_pid;
-    pthread_mutex_unlock(&container_list_mutex);
-
-    kill(pid, SIGTERM);
+    
 
     /* Give it 3 s to exit gracefully, then SIGKILL */
     struct timespec ts = {0, 100 * 1000 * 1000}; /* 100 ms */
