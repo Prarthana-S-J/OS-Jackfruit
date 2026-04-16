@@ -99,8 +99,7 @@ sudo rmmod monitor
 | # | Requirement                 | Description                                            | Screenshot   |
 | - | --------------------------- | ------------------------------------------------------ | ------------ |
 | 1 | Multi-container supervision | Two containers running under a single supervisor       | *screenshot1* |
-| 2 | Metadata tracking           | `engine ps` showing container states and metadata      | *screenshot2_1, 
-                                                                                            screenshot2_2* |
+| 2 | Metadata tracking           | `engine ps` showing container states and metadata      | *screenshot2_1, screenshot2_2* |
 | 3 | Bounded-buffer logging      | Logs captured from container output                    | *screenshot3_1, screenshot3_2,screenshot3_3* |
 | 4 | CLI and IPC                 | CLI command interacting with supervisor                | *screenshot4* |
 | 5 | Soft-limit warning          | Kernel log showing container registration / monitoring | *screenshot5* |
