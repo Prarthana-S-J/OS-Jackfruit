@@ -1,4 +1,3 @@
-<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/82ac1ac8-74d7-40d5-967b-6b121ad7c164" /># Multi-Container Runtime with Kernel Memory Monitor
 
 ## 1. Team Information
 
