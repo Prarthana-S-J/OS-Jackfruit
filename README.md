@@ -98,14 +98,15 @@ sudo rmmod monitor
 
 | # | Requirement                 | Description                                            | Screenshot   |
 | - | --------------------------- | ------------------------------------------------------ | ------------ |
-| 1 | Multi-container supervision | Two containers running under a single supervisor       | *(Add here)* |
-| 2 | Metadata tracking           | `engine ps` showing container states and metadata      | *(Add here)* |
-| 3 | Bounded-buffer logging      | Logs captured from container output                    | *(Add here)* |
-| 4 | CLI and IPC                 | CLI command interacting with supervisor                | *(Add here)* |
-| 5 | Soft-limit warning          | Kernel log showing container registration / monitoring | *(Add here)* |
-| 6 | Hard-limit enforcement      | Kernel integration and monitoring evidence             | *(Add here)* |
-| 7 | Scheduling experiment       | Execution time difference using nice values            | *(Add here)* |
-| 8 | Clean teardown              | Supervisor shutdown and no leftover processes          | *(Add here)* |
+| 1 | Multi-container supervision | Two containers running under a single supervisor       | *screenshot1* |
+| 2 | Metadata tracking           | `engine ps` showing container states and metadata      | *screenshot2_1, 
+                                                                                            screenshot2_2* |
+| 3 | Bounded-buffer logging      | Logs captured from container output                    | *screenshot3_1, screenshot3_2,screenshot3_3* |
+| 4 | CLI and IPC                 | CLI command interacting with supervisor                | *screenshot4* |
+| 5 | Soft-limit warning          | Kernel log showing container registration / monitoring | *screenshot5* |
+| 6 | Hard-limit enforcement      | Kernel integration and monitoring evidence             | *screenshot6* |
+| 7 | Scheduling experiment       | Execution time difference using nice values            | *screenshot7* |
+| 8 | Clean teardown              | Supervisor shutdown and no leftover processes          | *screenshot8* |
 
 ---
 ## 4. Engineering Analysis
