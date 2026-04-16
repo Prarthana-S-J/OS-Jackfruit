@@ -1,11 +1,11 @@
-# Multi-Container Runtime with Kernel Memory Monitor
+<img width="940" height="565" alt="image" src="https://github.com/user-attachments/assets/82ac1ac8-74d7-40d5-967b-6b121ad7c164" /># Multi-Container Runtime with Kernel Memory Monitor
 
 ## 1. Team Information
 
 **Team Members:**
 
-* [Your Name] — [SRN]
-* [Teammate Name] — [SRN]
+* Prarthana Shivakumar — PES1UG24CS339
+* Prema P Kotur PES1UG24CS343
 
 ---
 
@@ -109,7 +109,6 @@ sudo rmmod monitor
 | 8 | Clean teardown              | Supervisor shutdown and no leftover processes          | *(Add here)* |
 
 ---
-
 ## 4. Engineering Analysis
 
 ### Isolation Mechanisms
