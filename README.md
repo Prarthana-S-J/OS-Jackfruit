@@ -3,7 +3,7 @@
 
 **Team Members:**
 
-* Prarthana Shivakumar — PES1UG24CS339
+* Prarthana Shivakumar PES1UG24CS339
 * Prema P Kotur PES1UG24CS343
 
 ---
